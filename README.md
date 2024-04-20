@@ -13,6 +13,9 @@ Figure 1. Research flow diagram.
 The abstract graph.
 
 ## Refers to the paper titled "...".
-Doi: ....
-Author:  Yuming Liu
-Email: ericleo812@gmail.com
+
+#### Doi: ....
+
+#### Author:  Yuming Liu
+
+#### Email: ericleo812@gmail.com
